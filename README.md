@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen-Tu-Anh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning in Codegym academy
+- 🌱 I’m software engineering at CMC Global
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me: nguyentuanh.10t2@gmail.com
 
